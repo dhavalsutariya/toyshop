@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "toyshop",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

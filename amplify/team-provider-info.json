@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-toyshop-dev-5ccf9-authRole",
+      "UnauthRoleArn": "arn:aws:iam::358365648223:role/amplify-toyshop-dev-5ccf9-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::358365648223:role/amplify-toyshop-dev-5ccf9-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-toyshop-dev-5ccf9-deployment",
+      "UnauthRoleName": "amplify-toyshop-dev-5ccf9-unauthRole",
+      "StackName": "amplify-toyshop-dev-5ccf9",
+      "StackId": "arn:aws:cloudformation:ca-central-1:358365648223:stack/amplify-toyshop-dev-5ccf9/1190ca90-02a0-11f0-9df1-0a83abb8b859",
+      "AmplifyAppId": "d3tau9sx8bai2m"
+    },
+    "categories": {
+      "api": {
+        "toyshop": {}
+      }
+    }
+  }
+}
