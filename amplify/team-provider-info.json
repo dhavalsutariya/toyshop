@@ -13,7 +13,20 @@
     },
     "categories": {
       "api": {
-        "toyshop": {}
+        "toyshop": {},
+        "sendToyEmail": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3tau9sx8bai2m",
+          "type": "manual"
+        }
+      },
+      "function": {
+        "sendToyEmail": {
+          "deploymentBucketName": "amplify-toyshop-dev-5ccf9-deployment",
+          "s3Key": "amplify-builds/sendToyEmail-63686935304737316a45-build.zip"
+        }
       }
     }
   }

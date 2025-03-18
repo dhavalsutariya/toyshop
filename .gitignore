@@ -43,3 +43,24 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+# Amplify generated files
+amplify/\#current-cloud-backend
+amplify/.config/local-*
+amplify/backend/aws-exports.js
+amplify/backend/amplify-meta.json
+amplifyconfiguration.json
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Environment files
+.env
+amplify/backend/function/*/src/.env
+
+# Logs and temp files
+*.log
+*.swp
